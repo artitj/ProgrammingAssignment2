@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment 2 for R Programming Course
+## Code based on example vector caching class
 
 ## Initializes a special "matrix" object that can cache its inverse
 
